@@ -1,0 +1,17 @@
+header {
+	background: #e7e6d4;
+}
+.menu-item {
+	float: left;
+	width: 20%;
+
+}
+footer {
+	background: #171717;
+}
+.service-item{
+	height: 300px;
+}
+section {
+	background: #f3f2e9;
+}
